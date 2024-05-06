@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+    background-color: #2c2b2b;
+}
+
+h1{
+    color: white;   
+}
+
+img{
+    width: 200px;
+}
+
+#nombre{
+    font-size: x-large;
+}
+
+a{
+    color: white;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: larger;
+}
+
+div{
+    padding-right: 350px;
+    padding-left: 350px;
+}
